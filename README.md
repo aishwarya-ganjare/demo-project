@@ -1,3 +1,3 @@
 # demo-project
-this is my demo project
-Author-Aishwarya Ganjare
+this is my demo project<br>
+Author-Aishwarya Ganjare<br>update readme
